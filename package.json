@@ -1,0 +1,22 @@
+{
+  "name": "workout-tracker",
+  "version": "1.0.0",
+  "description": "MongoDB/Mongoose Application for Tracking Fitness",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamescbaldwin/WORKOUT-TRACKER.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jamescbaldwin/WORKOUT-TRACKER/issues"
+  },
+  "homepage": "https://github.com/jamescbaldwin/WORKOUT-TRACKER#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
