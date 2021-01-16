@@ -21,7 +21,7 @@
   "homepage": "https://github.com/jamescbaldwin/WORKOUT-TRACKER#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.11.10",
+    "mongoose": "^5.11.12",
     "morgan": "^1.10.0",
     "router": "^1.3.5"
   }
